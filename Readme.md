@@ -5,6 +5,9 @@
 * [Program.cs](./CS/WindowsApplication1/Program.cs) (VB: [Program.vb](./VB/WindowsApplication1/Program.vb))
 <!-- default file list end -->
 # OBSOLETE: How to create LayoutControlItem's with predefined quantity rows and columns at runtime
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e1187)**
+<!-- run online end -->
 
 
 <p><strong>Starting with version 16.2, LayoutControl provides the new mode </strong><a href="https://documentation.devexpress.com/#WindowsForms/CustomDocument114044"><strong>Table Layout Mode</strong></a><strong>. It is a two-dimensional grid that consists of cells formed by a set of rows and columns. Each layout item is arranged in table cells according to its row and column indexes and span values.</strong></p>
